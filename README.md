@@ -11,8 +11,8 @@
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=py,c,cpp,java,django,flask,docker,vscode,tensorflow,pytorch,)](https://skillicons.dev)"/>
 
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ndhieunguyen&show_icons=true&theme=react&count_private=true&line_height=25"/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ndhieunguyen&show_icons=true&theme=react&count_private=true&line_height=25"/>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndhieunguyen&theme=react&count_private=true&hide=jupyter%20notebook"/>
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ndhieunguyen&theme=react" /> -->
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ndhieunguyen&theme=react" />
