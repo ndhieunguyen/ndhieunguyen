@@ -5,7 +5,10 @@
 <p align="center"> <img src="asset/coding.gif"/>
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nguyen</h1>
-<h3 align="center">I am studying Artigicial Intelligence at <a href="https://hcmuni.fpt.edu.vn/"> FPT University </a>, Vietnam. I am also an AI intern at <a href="https://www.linkedin.com/company/gradients-tech/about/"> Gradients Technologies </a>
+<h3 align="center">SUMMARY
+Nguyen Doan Hieu Nguyen
+Ó +849 2825 2927 · Y Ho Chi Minh, Viet Nam · R Email  GitHub ·  ̄ LinkedIn ·  Google Scholar · ¬ Hackerrank
+ AI researcher with an excellent bachelor’s degree in AI from FPT University. Skilled in research, data collection, model building, and result evaluation. Dedicated to pushing boundaries in AI and seeking impactful projects.
 </h3>
 <br>
 
