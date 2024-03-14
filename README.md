@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nguyen</h1>
 <h3 align="left">
-AI researcher with an excellent bachelor’s degree in AI from FPT University. Skilled in research, data collection, model building, and result evaluation. Dedicated to pushing boundaries in AI and seeking impactful projects.
+I am an AI researcher with an excellent bachelor’s degree in AI from FPT University. Skilled in research, data collection, model building, and result evaluation. Dedicated to pushing boundaries in AI and seeking impactful projects.
 </h3>
 <br>
 
