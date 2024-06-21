@@ -10,6 +10,6 @@ I am an AI researcher with an excellent bachelor’s degree in AI from FPT Unive
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ndhieunguyen&show_icons=true&theme=react&count_private=true&line_height=25"/>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndhieunguyen&theme=react&count_private=true&hide=jupyter%20notebook"/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndhieunguyen&theme=react&count_private=true&hide=html,scss,javascript,css,liquid"/>
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ndhieunguyen&theme=react" />
